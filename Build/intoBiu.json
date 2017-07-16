@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "intoBiu.data.unityweb",
+"asmCodeUrl": "intoBiu.asm.code.unityweb",
+"asmMemoryUrl": "intoBiu.asm.memory.unityweb",
+"asmFrameworkUrl": "intoBiu.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
